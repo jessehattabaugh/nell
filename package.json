@@ -1,0 +1,21 @@
+{
+  "name": "nell",
+  "version": "0.0.0",
+  "description": "sends you tearing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jessehattabaugh/nell.git"
+  },
+  "keywords": [
+    "tearing"
+  ],
+  "author": "Jesse Hattabaugh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jessehattabaugh/nell/issues"
+  }
+}
